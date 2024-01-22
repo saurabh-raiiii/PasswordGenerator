@@ -33,5 +33,4 @@ This project is a password generator implemented using HTML, Tailwind CSS, JavaS
 
 1. Open the application in a web browser.
 2. Customize the password criteria by selecting the desired length and including special characters or numbers.
-3. Click the "Generate Password" button.
-4. Click the "Copy to Clipboard" button to copy the generated password.
+3. Click the "Copy to Clipboard" button to copy the generated password.
