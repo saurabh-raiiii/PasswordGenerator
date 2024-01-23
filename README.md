@@ -1,8 +1,8 @@
-# Password Generator Project
+# [Password Generator](https://password-generator-two-nu.vercel.app/)
 
 ## Overview
 
-This project is a password generator implemented using HTML, Tailwind CSS, JavaScript, and React. It provides a simple yet powerful tool for generating secure passwords with customizable length and character criteria.
+This project is a password generator implemented using HTML, [Tailwind CSS](https://tailwindcss.com/), JavaScript, and [React](https://react.dev/). It provides a simple yet powerful tool for generating secure passwords with customizable length and character criteria.
 
 ## Key Features
 
@@ -22,15 +22,8 @@ This project is a password generator implemented using HTML, Tailwind CSS, JavaS
   - Intuitive UI for easy navigation and customization of password criteria.
   - Provides visual feedback on the selected password length and criteria.
 
-## Getting Started
-
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd PasswordGenerator`
-3. Install dependencies: `npm install`
-4. Start the development server: `npm run dev`
-
 ## Usage
 
 1. Open the application in a web browser.
 2. Customize the password criteria by selecting the desired length and including special characters or numbers.
-3. Click the "Copy to Clipboard" button to copy the generated password.
+3. Click the "Copy" button to copy the generated password.
